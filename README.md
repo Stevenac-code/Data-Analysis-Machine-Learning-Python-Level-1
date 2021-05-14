@@ -33,5 +33,5 @@ Los sistemas de machine learning los clasificaremos de acuerdo a la relación qu
 
 ![](https://github.com/Stevenac-code/Data-Analysis-Machine-Learning-Python-Level-1/blob/master/Machine_Learning.jpg)
 
-###                                Tipos de sistemas en Machine Learning
+>                               Tipos de sistemas en Machine Learning
 

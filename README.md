@@ -28,19 +28,10 @@ Data-Analysis-Machine-Learning-Python-Level-1
 23.	Métricas para el problema de clasificación.
 24.	Árboles de desición.
 
-###Imagen
-
-Machine Learning:
+### Tipos de sistemas en Machine Learning:
+Los sistemas de machine learning los clasificaremos de acuerdo a la relación que se establezca entre los datos de entrada y salida, además de la naturaleza continua o discreta de los datos:
 
 ![](https://github.com/Stevenac-code/Data-Analysis-Machine-Learning-Python-Level-1/blob/master/Machine_Learning.jpg)
 
-> Follow your heart.
+###                                Tipos de sistemas en Machine Learning
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
-
-> 图为：厦门白城沙滩 Xiamen
-
-
-
-
-###End
